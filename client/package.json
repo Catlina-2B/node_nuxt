@@ -23,13 +23,13 @@
         "bootstrap-vue": "^2.0.0-rc.11",
         "cookieparser": "^0.1.0",
         "cross-env": "^5.2.0",
-        "express": "^4.16.4",
+        "express": "^4.17.3",
         "js-cookie": "^2.2.0",
         "muse-ui": "^3.0.2",
         "nuxt": "^2.0.0"
     },
     "devDependencies": {
-        "express": "^4.17.1",
+        "express": "^4.17.3",
         "node-sass": "^4.12.0",
         "nodemon": "^1.18.9",
         "sass-loader": "^7.1.0"
